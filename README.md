@@ -4,10 +4,6 @@
 
 **Backend Developer | Problem Solver| Low-Level Systems Enthusiast**
 <blockquote><i>"Always learning, building, and improving."</i></blockquote>
-
-<a href="www.linkedin.com/in/kaoutar-elayadi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Elayadi-kaoutar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
 </div>
 
 ---
@@ -77,6 +73,9 @@ A file storage service built with **Java** that explores client-server architect
 
 
 <br/>
+
+<a href="www.linkedin.com/in/kaoutar-elayadi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Elayadi-kaoutar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 
 </div>
