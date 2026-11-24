@@ -2,14 +2,13 @@
 
 # Hi, I'm Kaoutar Elayadi 👋
 
-**Computer Science Engineering Student | Backend Developer | Problem Solver**
+**Backend Developer | Problem Solver| Low-Level Systems Enthusiast**
 
-📍 ENSA Al Hoceima, Morocco
+📍  Morocco
 
 <blockquote><i>"Always learning, building, and improving."</i></blockquote>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="www.linkedin.com/in/kaoutar-elayadi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Elayadi-kaoutar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
@@ -18,9 +17,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science Engineering student at **ENSA Al Hoceima** with a strong interest in **software engineering** and **backend development**. I love understanding how systems work behind the scenes, exploring new technologies, solving technical problems, and turning ideas into practical projects.
+I'm a Computer Science Engineering student at **ENSA Al Hoceima** with a strong interest in **software engineering**, **backend development**, and **low-level software**. I love understanding what really happens beneath the abstractions: how memory is managed, how the operating system schedules processes, and how data travels across a network.
 
-I'm currently looking for **internship opportunities** in backend / software development where I can learn from a team and contribute to real-world projects.
+That curiosity pushes me to work close to the metal in **C**, while building scalable backend systems in **Java**. I enjoy turning ideas into practical projects and solving hard technical problems.
+
+I'm currently looking for **internship opportunities** in backend, systems, or low-level software development where I can learn from a team and contribute to real-world projects.
 
 ---
 
@@ -61,13 +62,14 @@ I'm currently looking for **internship opportunities** in backend / software dev
 
 | Area | Focus |
 |------|-------|
-| 🏗️ Backend | Architecture & REST APIs |
+| ⚙️ Low-Level | C programming, memory management, how programs run on hardware |
+| 💾 Operating Systems | Processes, threads, scheduling, file systems |
+| 🌐 Networks | TCP/IP, sockets, HTTP communication |
 | 🌍 Systems | Distributed Systems |
-| 💾 Core CS | Operating Systems, Computer Networks |
+| 🏗️ Backend | Architecture & REST APIs |
 | 🧩 Problem Solving | Data Structures & Algorithms |
 
 ---
-
 ## 📌 Featured Project
 
 ### 🗄️ RESTful Distributed File Storage System
@@ -76,30 +78,8 @@ A file storage service built with **Java** that explores client-server architect
 **Stack:** Java · Spring Boot · REST API
 **Status:** 🚧 In progress
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Elayadi-kaoutar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elayadi-kaoutar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-- 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- 💻 **GitHub:** [@Elayadi-kaoutar](https://github.com/Elayadi-kaoutar)
-
-<div align="center">
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Elayadi-kaoutar&label=Profile%20views&color=0e75b6&style=flat)
-
-*Thanks for stopping by! ⭐*
 
 </div>
