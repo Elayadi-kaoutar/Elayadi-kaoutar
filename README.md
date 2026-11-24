@@ -3,9 +3,6 @@
 # Hi, I'm Kaoutar Elayadi 👋
 
 **Backend Developer | Problem Solver| Low-Level Systems Enthusiast**
-
-📍  Morocco
-
 <blockquote><i>"Always learning, building, and improving."</i></blockquote>
 
 <a href="www.linkedin.com/in/kaoutar-elayadi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
