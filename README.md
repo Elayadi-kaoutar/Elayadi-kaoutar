@@ -1,45 +1,24 @@
-<div align="center">
+## Hi, I'm Kaoutar Elayadi 👋
 
-# Hi, I'm Kaoutar Elayadi 👋
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaoutar-elayadi)
+[![GitHub](https://img.shields.io/badge/-@Elayadi--kaoutar-181717?style=flat-square&logo=github)](https://github.com/Elayadi-kaoutar)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kawtar.elayadi@icloud.com)
 
-**Backend Developer | Problem Solver| Low-Level Systems Enthusiast**
-<blockquote><i>"Always learning, building, and improving."</i></blockquote>
-</div>
+> CS Engineering student , building backends in **Java** and exploring how software runs under the hood in **C**. Open to **backend and systems internships**.
+### About me
 
----
+I'm a Computer Science Engineering student who enjoys understanding what really happens beneath the abstractions: how memory is managed, how the operating system schedules processes, and how data travels across a network. That curiosity leads me to write low-level code in **C**, while I build backend projects in **Java** and **Spring Boot**. I learn best by building, so I turn what I study into small, practical projects. I'm looking for an internship where I can learn from a team and work on real backend or systems problems.
 
-## 👩‍💻 About Me
+### Currently working on
 
-I'm a Computer Science Engineering student at **ENSA Al Hoceima** with a strong interest in **software engineering**, **backend development**, and **low-level software**. I love understanding what really happens beneath the abstractions: how memory is managed, how the operating system schedules processes, and how data travels across a network.
+I'm building a **RESTful Distributed File Storage System** in Java and Spring Boot. The project helps me learn client-server architecture, HTTP communication, and the basics of distributed systems. Alongside it, I'm strengthening my backend skills and practicing **Data Structures & Algorithms** to improve my problem-solving.
 
-That curiosity pushes me to work close to the metal in **C**, while building scalable backend systems in **Java**. I enjoy turning ideas into practical projects and solving hard technical problems.
+[![File Storage System](https://svg.bookmark.style/api?url=https://github.com/Elayadi-kaoutar/REPO-NAME&mode=dark&style=horizontal)](https://github.com/Elayadi-kaoutar/Distributed-File-System)
 
----
+### Tech stack
 
-## 🚀 What I'm Currently Working On
-
-- 🗄️ Building a **RESTful Distributed File Storage System** in Java
-- 🌐 Exploring **client-server architecture** and HTTP communication
-- ⚙️ Strengthening my backend skills with **Java & Spring Boot**
-- 🧠 Practicing **Data Structures & Algorithms** to sharpen my problem-solving
-
----
-
-## 🛠️ Tech Stack
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-<br/>
-##  Reach me
-<a href="www.linkedin.com/in/kaoutar-elayadi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Elayadi-kaoutar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-
-</div>
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
